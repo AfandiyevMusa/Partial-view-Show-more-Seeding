@@ -1,31 +1,29 @@
 ﻿<Properties StartupConfiguration="{F911F83E-21EA-4FE7-AAB5-F271D8365750}|Default">
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Fiorello PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Partial view, Show more, Seeding/Fiorello/Fiorello/Controllers/ShopController.cs" relfile="Fiorello/Controllers/ShopController.cs" line="39" column="1" />
-    </BreakpointStore>
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Fiorello/Data/AppDbContext.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fiorello/Controllers/ShopController.cs">
     <Files>
-      <File FileName="Fiorello/Controllers/ShopController.cs" Line="43" Column="1" />
-      <File FileName="Fiorello/wwwroot/js/shop.js" Line="17" Column="47" />
-      <File FileName="Fiorello/Views/Shop/Index.cshtml" Line="15" Column="58" />
-      <File FileName="Fiorello/Program.cs" Line="13" Column="1" />
-      <File FileName="Fiorello/Data/AppDbContext.cs" Line="6" Column="2" />
-      <File FileName="Fiorello/Controllers/ProductController.cs" Line="26" Column="75" />
-      <File FileName="Fiorello/Models/Customer.cs" Line="7" Column="31" />
-      <File FileName="Fiorello/Models/BaseEntity.cs" Line="1" Column="1" />
+      <File FileName="Fiorello/Controllers/HomeController.cs" Line="30" Column="134" />
+      <File FileName="Fiorello/ViewModels/HomeVM.cs" Line="15" Column="9" />
+      <File FileName="Fiorello/Views/Home/Index.cshtml" Line="17" Column="33" />
+      <File FileName="Fiorello/wwwroot/js/shop.js" Line="20" Column="11" />
+      <File FileName="Fiorello/Views/Contact/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Fiorello/Views/Product/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Fiorello/Views/Shop/Index.cshtml" Line="7" Column="24" />
+      <File FileName="Fiorello/Controllers/ProductController.cs" Line="1" Column="1" />
+      <File FileName="Fiorello/Controllers/ShopController.cs" Line="41" Column="136" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Fiorello" expanded="True">
             <Node name="Fiorello" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Data" expanded="True">
-                <Node name="AppDbContext.cs" selected="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="ShopController.cs" selected="True" />
               </Node>
+              <Node name="Data" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="ViewModels" expanded="True" />
               <Node name="Views" expanded="True">
@@ -45,6 +43,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Fiorello PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
